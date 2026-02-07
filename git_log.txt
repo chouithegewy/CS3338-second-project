@@ -1,0 +1,51 @@
+commit 5b086fb1deb8a0b2d642af3e68aa49aad47c8661
+Merge: 4cf66bd cddaae2
+Author: David Nunes-Childs <combatburrito@gmail.com>
+Date:   Fri Jan 30 13:23:39 2026 -0800
+
+    merge: info-fill
+
+commit cddaae2012f9f4c432e551ea0be70a394ba89a7f
+Author: David Nunes-Childs <combatburrito@gmail.com>
+Date:   Fri Jan 30 13:05:18 2026 -0800
+
+    ADDED: favorite game div
+
+commit 71c2e49d7b8ee9bdf965d02d3077c1e8505f951e
+Author: David Nunes-Childs <combatburrito@gmail.com>
+Date:   Fri Jan 30 12:48:29 2026 -0800
+
+    ADDED: favorite movie div
+
+commit 4cf66bd3b45ab60300bffbe20e47808315d5441d
+Author: David Nunes-Childs <combatburrito@gmail.com>
+Date:   Fri Jan 30 12:47:28 2026 -0800
+
+    ADDED: favorite food div
+
+commit 7abd0c42db5443471bd19bf0a80929792719329a
+Author: David Nunes-Childs <combatburrito@gmail.com>
+Date:   Fri Jan 30 12:46:09 2026 -0800
+
+    ADDED: README - project description
+
+commit 0462a94463b466e17af0ee6e93795e9a9b224821
+Merge: 1d2bfc0 cf5ce9e
+Author: chilos <combatburrito@gmail.com>
+Date:   Fri Jan 30 12:43:13 2026 -0800
+
+    Merge pull request #1 from chouithegewy/info-fill
+    
+    Filled in the blanks
+
+commit cf5ce9edf330715bb35b3f5b726891d0bb995513
+Author: David Nunes-Childs <combatburrito@gmail.com>
+Date:   Fri Jan 30 12:37:05 2026 -0800
+
+    Filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
