@@ -1,3 +1,33 @@
+commit 3b43253f838f8660acc6ffefb082bb88c21a1a32
+Merge: 61c9efa 99c42fd
+Author: chilos <combatburrito@gmail.com>
+Date:   Sat Feb 7 15:56:21 2026 -0800
+
+    Merge pull request #2 from chouithegewy/feature-about-me
+    
+    Feature about me
+
+commit 99c42fd9bd2d7fad74d7538485dd7fedf0310ab8
+Merge: 40d089c 61c9efa
+Author: chilos <combatburrito@gmail.com>
+Date:   Sat Feb 7 15:56:05 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 40d089ce5c16c18760e1608c489df9dfc31ae80c
+Author: chilos <combatburrito@gmail.com>
+Date:   Sat Feb 7 15:46:00 2026 -0800
+
+    Update index.html
+    
+    Updated with my own information filled in the blanks.
+
+commit 61c9efa6bc047b8960a14b605aeef8fd0c6b06c3
+Author: David Nunes-Childs <combatburrito@gmail.com>
+Date:   Fri Jan 30 13:26:24 2026 -0800
+
+    git_log and repo-location added
+
 commit 5b086fb1deb8a0b2d642af3e68aa49aad47c8661
 Merge: 4cf66bd cddaae2
 Author: David Nunes-Childs <combatburrito@gmail.com>
@@ -10,12 +40,6 @@ Author: David Nunes-Childs <combatburrito@gmail.com>
 Date:   Fri Jan 30 13:05:18 2026 -0800
 
     ADDED: favorite game div
-
-commit 71c2e49d7b8ee9bdf965d02d3077c1e8505f951e
-Author: David Nunes-Childs <combatburrito@gmail.com>
-Date:   Fri Jan 30 12:48:29 2026 -0800
-
-    ADDED: favorite movie div
 
 commit 4cf66bd3b45ab60300bffbe20e47808315d5441d
 Author: David Nunes-Childs <combatburrito@gmail.com>
@@ -43,6 +67,34 @@ Author: David Nunes-Childs <combatburrito@gmail.com>
 Date:   Fri Jan 30 12:37:05 2026 -0800
 
     Filled in the blanks
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
 
 commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
 Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
